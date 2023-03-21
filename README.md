@@ -15,3 +15,5 @@ Open browser and type http://localhost:3001 to run this application on your loca
 
 ![Screenshot 2023-03-21 at 12 43 39 PM](https://user-images.githubusercontent.com/110634800/226698128-bd21bc64-a3e1-4f4e-9c4c-b016407aab0c.png)
 ![Screenshot 2023-03-21 at 12 45 22 PM](https://user-images.githubusercontent.com/110634800/226698143-a29502ac-4117-40c9-9c2b-d1e8ced7642e.png)
+ ### Heroku Deployment 
+ https://git.heroku.com/fuzzy-giggle13.git
