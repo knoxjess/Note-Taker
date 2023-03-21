@@ -13,7 +13,7 @@ apiRoutes.get('/notes', (req, res) => {
     })
 })
 
-apiRoutes.post('/notes', (req, res) => {
+apiRoutes.post('../notes', (req, res) => {
     fs.readFile('./db/db.json', 'utf-8', (err,data) => {
         if(err) {
             throw err
