@@ -7,7 +7,7 @@ Clone this repository to use this application on local machine.
 To install necessary dependencies, run the following command :
 
 ```
-npm i --save copy-to-clipboard
+npm i
 ```
 The application will be invoked with the following command: This will start localhost server on PORT 3000.
 node server.js
